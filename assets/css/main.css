@@ -535,8 +535,8 @@ h6 {
 }
 
 .footer .social-links a:hover {
-  color: var(--accent-color);
-  border-color: var(--accent-color);
+  color: #ffcc29;
+  border-color: #ffcc29;
 }
 
 .footer h4 {
@@ -579,7 +579,7 @@ h6 {
 }
 
 .footer .footer-links ul a:hover {
-  color: var(--accent-color);
+  color: #ffcc29;
 }
 
 .footer .footer-contact p {
